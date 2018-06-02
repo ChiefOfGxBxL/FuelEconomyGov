@@ -1,0 +1,26 @@
+{
+  "name": "fueleconomygov",
+  "version": "1.0.0",
+  "description": "Perform chained queries on the fueleconomy.gov dataset",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "fuel",
+    "economy",
+    "mpg",
+    "car",
+    "vehicle",
+    "emissions"
+  ],
+  "author": "ChiefOfGxBxL",
+  "license": "MIT",
+  "dependencies": {
+    "csv-streamify": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
